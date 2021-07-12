@@ -18,4 +18,4 @@ It improved web-scrapping and API usage.
 ![mazepin](https://user-images.githubusercontent.com/70694168/125276164-cf78aa80-e307-11eb-9855-213e24b164e0.PNG)
 
 ### Made by:
-DinisSousa2003 & RodrigoSousa03
+[@DinisSousa2003]( https://github.com/DinisSousa2003)  & [@RodrigoSousa03]( https://github.com/RodrigoSousa03)
